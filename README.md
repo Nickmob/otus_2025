@@ -1,4 +1,9 @@
 # otus_2025
 Otus repo
 
-Test commit form GH!
+Test commit from GH!
+
+Commit from local repo!
+
+END
+
